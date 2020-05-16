@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="address">Location</string>
+    <string name="temp">\u00B0</string>
+    <string name="feel_like">Feel &amp; Like</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="visibility">Visibility</string>
+    <string name="weather">Weather</string>
+    <string name="timestamp">Time Stamp</string>
+    <string name="connection">Wifi network not found, please check your wifi connection!</string>
+</resources>
